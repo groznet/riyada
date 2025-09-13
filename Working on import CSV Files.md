@@ -1,0 +1,1 @@
+Let's make all attribute names in English, at least at first so that their slug is met and mentioned. After than we might as well change it by reimporting using their SKU
